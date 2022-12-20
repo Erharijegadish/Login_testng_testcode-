@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-12-20T19:51:33 IST" name="Default suite" finished-at="2022-12-20T19:51:40 IST" duration-ms="6797">
+    <groups>
+    </groups>
+    <test started-at="2022-12-20T19:51:33 IST" name="Default test" finished-at="2022-12-20T19:51:40 IST" duration-ms="6797">
+      <class name="newapplication.login.SampleLoginTest">
+        <test-method is-config="true" signature="browserSetUp()[pri:0, instance:newapplication.login.SampleLoginTest@4562e04d]" started-at="2022-12-20T19:51:33 IST" name="browserSetUp" finished-at="2022-12-20T19:51:38 IST" duration-ms="5326" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserSetUp -->
+        <test-method signature="testUsername()[pri:1, instance:newapplication.login.SampleLoginTest@4562e04d]" started-at="2022-12-20T19:51:38 IST" name="testUsername" finished-at="2022-12-20T19:51:39 IST" duration-ms="191" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testUsername -->
+        <test-method is-config="true" signature="capture()[pri:0, instance:newapplication.login.SampleLoginTest@4562e04d]" started-at="2022-12-20T19:51:39 IST" name="capture" finished-at="2022-12-20T19:51:39 IST" duration-ms="280" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- capture -->
+        <test-method signature="testPassword()[pri:2, instance:newapplication.login.SampleLoginTest@4562e04d]" started-at="2022-12-20T19:51:39 IST" name="testPassword" finished-at="2022-12-20T19:51:39 IST" duration-ms="165" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testPassword -->
+        <test-method is-config="true" signature="capture()[pri:0, instance:newapplication.login.SampleLoginTest@4562e04d]" started-at="2022-12-20T19:51:39 IST" name="capture" finished-at="2022-12-20T19:51:39 IST" duration-ms="313" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- capture -->
+        <test-method is-config="true" signature="quitDriver()[pri:0, instance:newapplication.login.SampleLoginTest@4562e04d]" started-at="2022-12-20T19:51:39 IST" name="quitDriver" finished-at="2022-12-20T19:51:40 IST" duration-ms="441" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quitDriver -->
+      </class> <!-- newapplication.login.SampleLoginTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
